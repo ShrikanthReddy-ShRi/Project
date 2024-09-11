@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-21T21:50:40 IST" name="Default suite" finished-at="2024-08-21T21:50:50 IST" duration-ms="10369">
+    <groups>
+    </groups>
+    <test started-at="2024-08-21T21:50:40 IST" name="Default test" finished-at="2024-08-21T21:50:50 IST" duration-ms="10369">
+      <class name="aug20.AdvanceReports">
+        <test-method is-config="true" signature="generatereports()[pri:0, instance:aug20.AdvanceReports@3cebbb30]" started-at="2024-08-21T21:50:40 IST" name="generatereports" finished-at="2024-08-21T21:50:40 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generatereports -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:aug20.AdvanceReports@3cebbb30]" started-at="2024-08-21T21:50:40 IST" name="setUp" finished-at="2024-08-21T21:50:46 IST" duration-ms="5468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="firstTestcase()[pri:0, instance:aug20.AdvanceReports@3cebbb30]" started-at="2024-08-21T21:50:46 IST" name="firstTestcase" finished-at="2024-08-21T21:50:46 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestcase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:aug20.AdvanceReports@3cebbb30]" started-at="2024-08-21T21:50:46 IST" name="teardown" finished-at="2024-08-21T21:50:46 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:aug20.AdvanceReports@3cebbb30]" started-at="2024-08-21T21:50:46 IST" name="setUp" finished-at="2024-08-21T21:50:50 IST" duration-ms="3540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="secondTestCase()[pri:0, instance:aug20.AdvanceReports@3cebbb30]" started-at="2024-08-21T21:50:50 IST" name="secondTestCase" finished-at="2024-08-21T21:50:50 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestCase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:aug20.AdvanceReports@3cebbb30]" started-at="2024-08-21T21:50:50 IST" name="teardown" finished-at="2024-08-21T21:50:50 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- aug20.AdvanceReports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
